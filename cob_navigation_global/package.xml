@@ -14,6 +14,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <depend>roslaunch</depend>
+
   <exec_depend>amcl</exec_depend>
   <exec_depend>cob_default_env_config</exec_depend>
   <exec_depend>cob_linear_nav</exec_depend>
